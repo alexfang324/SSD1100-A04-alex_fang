@@ -57,8 +57,10 @@ header > p{
   align-items:end;
 }
 
-.box.justify-right.text-centered{
-  text-align: center;
+.box.wide-box{
+  width:130px;
+  justify-content: flex-start;
+  align-items:center;
 }
 
 .box-row {
